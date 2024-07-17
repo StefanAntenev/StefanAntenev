@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanantenev" alt="stefanantenev" /></a> </p>
 
-- 🌱 I’m currently learning **Programming Fundamentals with JS**
+- 🌱 I’m currently learning ** React **
 
 - 📫 How to reach me **steffann90@abv.bg**
 
