@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> 
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   </a>
 
 </p>
