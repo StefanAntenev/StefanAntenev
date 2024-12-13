@@ -26,6 +26,9 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   </a>
+  <a>
+    <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fhtml5&psig=AOvVaw1JHrCs1-_92fAJcU2OMNpR&ust=1734172526261000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODmkJ7GpIoDFQAAAAAdAAAAABAE">
+  </a>
 
 </p>
 
