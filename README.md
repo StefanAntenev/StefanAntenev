@@ -26,10 +26,6 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   </a>
-  <a>
-    <img scr="https://skillicons.dev/icons?i=js,html,css,react" alt="skill_logos" width="40" height="40">
-  </a>
-
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanantenev&show_icons=true&locale=en" alt="stefanantenev" /></p>
